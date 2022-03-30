@@ -1,19 +1,19 @@
 {
-    "name": "malikwebdev/newpackegelearn",
-    "description": "ini mencoba membuat packege ke dua kailinya",
-    "type": "library",
-    "license": "mit",
-    "autoload": {
-        "psr-4": {
-            "Malikwebdev\\Newpackegelearn\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "yudian nanda",
-            "email": "yudiannanwebdev@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {}
+  "name": "malikwebdev/newpackeg",
+  "description": "ini mencoba membuat packege ke dua kailinya",
+  "type": "library",
+  "license": "mit",
+  "autoload": {
+    "psr-4": {
+      "Malikwebdev\\Newpackeg\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "yudian nanda",
+      "email": "yudiannanwebdev@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {}
 }

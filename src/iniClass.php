@@ -1,6 +1,6 @@
 <?php
 
-namespace Malikwebdev\Newpackegelearn;
+namespace Malikwebdev\Newpackeg;
 
 class iniClass
 {
