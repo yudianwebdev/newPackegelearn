@@ -6,7 +6,7 @@ trait ApiResponses
 {
   protected function successResponse($data,  $code = 200)
   {
-    return $this->json([
+    return $this->response()->json([
       'code' => $code,
       'status' => 'Success',
       'data' => $data,
@@ -16,7 +16,7 @@ trait ApiResponses
 
   protected function errorResponse($error, $code)
   {
-    return $this->json([
+    return $this->response()->json([
       'code' => $code,
       'status' => 'Error',
       'data' => null,
