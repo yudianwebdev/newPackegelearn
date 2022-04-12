@@ -3,5 +3,5 @@
 ## Installation
 
 ```sh
-$ composer require malikwebdev/newpackegelearn
+$ composer require malikwebdev/newpackeg
 ```
